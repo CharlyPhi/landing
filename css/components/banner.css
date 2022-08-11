@@ -1,0 +1,20 @@
+.banner {
+  background-image: url(/landing/images/background.png);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.container {
+  width: 900px;
+  color: white;
+  display: block;
+  margin: 0 auto;
+}
+
+.btn-primary {
+  background-color: rgb(96, 38, 230);
+  border-radius: 30px;
+  padding: 10px;
+  margin-top: 40px;
+}
